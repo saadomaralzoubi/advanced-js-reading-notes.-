@@ -29,10 +29,9 @@ settled: Promise has fulfilled or rejected
 
 ## JS Async/Await:
 
-Async:
 we use Async await to make our code Asynchronous and both of them are extintions for the promises.
-async alow us to use a promis inside the function0
-await used to wait the promis It makes the code wait until the promise returns a result.
+async alow us to use a promis inside the function.
+await used to wait the promis, It makes the code wait until the promise returns a result.
 
 ## Test-Driven Development:
 

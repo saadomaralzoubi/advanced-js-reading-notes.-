@@ -9,11 +9,11 @@ to solve this problem the event loop came the function with the set time move to
 ## call back function :
 
 functions takes parameters as input when we pass a function as a parameter for a nother function its called call back functions.
-we use call back to make sure this function will run in a certin time .
+we use call back to make sure this function will run in a certin time or after a certin function and thats calls asynchronous JavaScript code.
 
 ## JS Promises:
 
-Promises are used to handle asynchronous operations in JavaScript. They are easy to manage when dealing with multiple asynchronous operations where callbacks can create callback hell leading to unmanageable code.
+Promises are objects return value in future used to handle asynchronous operations in JavaScript. They are easy to manage when dealing with multiple asynchronous operations where callbacks can create callback hell leading to unmanageable code.
 
 Benefits of Promises :
 Improves Code Readability
@@ -30,17 +30,15 @@ settled: Promise has fulfilled or rejected
 ## JS Async/Await:
 
 Async:
-It simply allows us to write promises based code as if it was synchronous and it checks that we are not breaking the execution thread.
-
-Await:
-Await function is used to wait for the promise. It could be used within the async block only. It makes the code wait until the promise returns a result.
+we use Async await to make our code Asynchronous and both of them are extintions for the promises.
+async alow us to use a promis inside the function0
+await used to wait the promis It makes the code wait until the promise returns a result.
 
 ## Test-Driven Development:
 
-Testing is the process of ensuring a program receives the correct input and generates the correct output and intended side-effects.
+after we write our code we have to test it, there is two types of tests :
+manual: by the user
+automated : by testing code
 
-Manual Testing:
-Manual testing is the process of checking your application or code from the user’s perspective. Opening up the browser or program and navigating around in an attempt to test functionality and find bugs.
-
-Automated Testing:
-Automated testing, on the other hand, is writing code that checks to see if other code works. Contrary to manual testing, the specifications remain constant from test to test. The biggest advantage is being able to test many things much faster.
+TDD is when you define first the results of your code by the test results after that you start writing your code.
+in the outher words your code is drivin by the test .

@@ -2,8 +2,8 @@
 
 This repo contain all of the reading notes through the advanced java script course
 
-| Name   | Link                       |
-| ------ | -------------------------- |
-| Read01 | [TDD] (01-prep-and-tdd.md) |
+| Name   | Link                                                                                                |
+| ------ | --------------------------------------------------------------------------------------------------- |
+| Read01 | [TDD] (https://github.com/saadomaralzoubi/advanced-js-reading-notes.-/blob/main/01-prep-and-tdd.md) |
 
 =====

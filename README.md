@@ -2,8 +2,9 @@
 
 This repo contain all of the reading notes through the advanced java script course
 
-| Name   | Link                                                                                                |
-| ------ | --------------------------------------------------------------------------------------------------- |
-| Read01 | [TDD](https://github.com/saadomaralzoubi/advanced-js-reading-notes.-/blob/main/01-prep-and-tdd.md)  |
-| Read03 | [Middleware](https://github.com/saadomaralzoubi/advanced-js-reading-notes.-/blob/main/read03.md)    |
-| Read04 | [Data Modleing](https://github.com/saadomaralzoubi/advanced-js-reading-notes.-/blob/main/Read04.md) |
+| Name         | Link                            |
+| ------------ | ------------------------------- |
+| Read01       | [TDD](01-prep-and-tdd.md)       |
+| Read03       | [Middleware](read03.md)         |
+| Read04       | [Data Modleing](Read04.md)      |
+| linked-lists | [linked-lists](linked-lists.md) |

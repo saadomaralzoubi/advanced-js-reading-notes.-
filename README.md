@@ -8,3 +8,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read03       | [Middleware](read03.md)         |
 | Read04       | [Data Modleing](Read04.md)      |
 | linked-lists | [linked-lists](linked-lists.md) |
+| Read06       | [Authentication](read06.md)     |

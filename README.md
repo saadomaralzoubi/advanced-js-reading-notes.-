@@ -10,3 +10,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | linked-lists | [linked-lists](linked-lists.md)   |
 | Read06       | [Authentication](read06.md)       |
 | Read07       | [Bearer Authorization](read07.md) |
+| Read08       | [Access Control (ACL)](read08.md) |

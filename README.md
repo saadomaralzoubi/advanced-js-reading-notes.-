@@ -12,3 +12,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read07       | [Bearer Authorization](read07.md) |
 | Read08       | [Access Control (ACL)](read08.md) |
 | Read09       | [Review](read09.md)               |
+| Read10       | [staks && queues](read10.md)      |

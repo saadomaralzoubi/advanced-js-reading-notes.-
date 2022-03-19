@@ -14,3 +14,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read09       | [Review](read09.md)                    |
 | Read10       | [staks && queues](read10.md)           |
 | Read11       | [Event Driven Applications](read11.md) |
+| Read12       | [socket](read12.md)                       |

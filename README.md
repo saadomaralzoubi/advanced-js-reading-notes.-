@@ -19,3 +19,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read14       | [Trees](read14.md)                     |
 | Read16       | [AWS](read16.md)                       |
 | Read17       | [s3 and lambda](read17.md)             |
+| Read18       | [Dynamo and Lambda](read18.md)         |

@@ -20,3 +20,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read16       | [AWS](read16.md)                       |
 | Read17       | [s3 and lambda](read17.md)             |
 | Read18       | [Dynamo and Lambda](read18.md)         |
+| Read26       | [Component Based UI](read26.md)        |

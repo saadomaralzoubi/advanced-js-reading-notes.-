@@ -21,3 +21,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read17       | [s3 and lambda](read17.md)             |
 | Read18       | [Dynamo and Lambda](read18.md)         |
 | Read26       | [Component Based UI](Read26.md)        |
+| Read27       | [useState() Hook](read27.md)           |

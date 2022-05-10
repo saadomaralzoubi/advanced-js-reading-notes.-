@@ -24,3 +24,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read27       | [useState() Hook](read27.md)              |
 | Read28       | [Component Lifecycle ](read28.md)         |
 | Read29       | [Advanced State with Reducers](read29.md) |
+| Read30       | [Hash Tables] (read30.md)                 |

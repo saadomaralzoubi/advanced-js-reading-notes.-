@@ -26,3 +26,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read29       | [Advanced State with Reducers](read29.md) |
 | Read30       | [Hash Tables](read30.md)                  |
 | Read31       | [contextAPI](read31.md)                   |
+| Read31       | [Context API - Behaviors](read32.md)      |

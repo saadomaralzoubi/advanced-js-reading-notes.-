@@ -1,43 +1,4 @@
-## `<Login />` and `<Auth />`
-
-## Review, Research, and Discussion
-
-### Why is the Context API useful?
-
-The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.<br>
-
-
-
-### Can a component outside of a provider get its context?
-
-No it can not. <br>
-
-### What are some common use cases for using the Context API?
-Some sample use cases where the Context API proves helpful are: Theming — Pass down app theme. i18n — Pass down translation messages. Authentication — Pass down current authenticated user.<br>
-
-### Describe “Context Hell”
-the React Context hell is the nasty code you get taking advantage of the React Context API (Providers inside Providers ...). 
-
-
-
-
-
-## Terms
-
-### global state
-
-State of Component that is used by other Component.
-
-### global context
-Context Provider that is used for the whole App and wrap all the components.
-
-### provider
-Context API that is considered as (parent) and share it's state to all its children.
-
-### consumer
-Context API that is considered as (Child) and have access to whatever the parent is sharing.
-
-
+# `<Login />` and `<Auth />`
 
 
 

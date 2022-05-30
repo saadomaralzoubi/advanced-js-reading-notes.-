@@ -30,3 +30,5 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read33       | [`<Login />` and `<Auth />` ](read33.md)   |
 | Read34       | [ API Integration ](read34.md)             |
 | Read36       | [ Application State with Redu ](read36.md) |
+| Read36       | [ Application State with Redu ](read36.md) |
+| Read37       | [ Redux - Combined Reducers ](read37.md) |

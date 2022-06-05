@@ -33,3 +33,4 @@ This repo contain all of the reading notes through the advanced java script cour
 | Read36       | [ Application State with Redu ](read36.md)  |
 | Read37       | [ Redux - Combined Reducers ](read37.md)    |
 | Read38       | [ Redux - Asynchronous Actions ](read38.md) |
+| Read39       | [ Redux - Toolkit ](read39.md)              |
